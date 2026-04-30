@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas Agarwal</h1>
-<h3 align="center">🚀 CSE (AI & ML) Student | First Year | Developer in Progress</h3>
+<h3 align="center">CSE (AI & ML) Student | First Year | Developer in Progress</h3>
 
 <p align="center">
   <a href="https://github.com/ShreyasAgarwal">
