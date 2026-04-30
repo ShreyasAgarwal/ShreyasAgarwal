@@ -15,7 +15,6 @@
 * 💻 Interested in **Software Development, AI, and System Design**
 * 🚀 Currently building **productivity & learning tools**
 * 🧠 Learning **App Development, Backend Systems, and Linux**
-* ⚡ Fun fact: I like building tools that make studying easier
 
 ---
 
