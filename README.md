@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 * 🎓 **First Year B.Tech Student – CSE (AI & ML)**
 * 💻 Interested in **Software Development, AI, and System Design**
