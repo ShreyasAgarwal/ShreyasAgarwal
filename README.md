@@ -11,7 +11,7 @@
 
 ## About Me
 
-* 🎓 **First Year B.Tech Student – CSE (AI & ML)**
+* 🎓 **B.Tech Student – CSE (AI & ML)**
 * 💻 Interested in **Software Development, AI, and System Design**
 * 🚀 Currently building **productivity & learning tools**
 * 🧠 Learning **App Development, Backend Systems, and Linux**
